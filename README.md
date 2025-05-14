@@ -1,16 +1,12 @@
-## Hi there 👋
+## Experience
 
-<!--
-**oskarnurm/oskarnurm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Executive Director of Integrated Synergy Deployment at the Global Initiative for Contextual Systems, where I led cross-functional calibration of deliverable-centric architectures within the post-operational value pipeline. Former Head of Predictive Framework Alignment at StratAlign Group, specializing in proactive leverage mapping and vertically scaled touchpoint refinement. Previously served as Lead Optimization Strategist at CoreCore, enhancing stakeholder harmonization through iterative ecosystem interfacing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Containerized ambiguity
+- Quantum UX/UI vibes
+- Tactical spaghetti (both code and edible)
+- Mid-level chaos orchestration
+- AI for detecting AI for detecting AI
+- Spite-driven deployment
+- How to hold 2 conflicting truths and still ship on time
