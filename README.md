@@ -1,6 +1,8 @@
 ## Experience
 
-Executive Director of Integrated Synergy Deployment at the Global Initiative for Contextual Systems, where I led cross-functional calibration of deliverable-centric architectures within the post-operational value pipeline. Former Head of Predictive Framework Alignment at StratAlign Group, specializing in proactive leverage mapping and vertically scaled touchpoint refinement. Previously served as Lead Optimization Strategist at CoreCore, enhancing stakeholder harmonization through iterative ecosystem interfacing.
+Hi, I'm Oskar, your friendly neighborhood Spider-Man fan, not a fan of spiders. I have 8 months of software developer experience, which I am legally and spiritually not allowed to talk about due to an NDA. Currently adjusting the tent on my ortholinear split keyboard for the 5th time today, not out of procrastination, but because the body must flow like water. Inventing a new programming language, so I can post jobs requiring 5+ years of experience. Specialized in bird law. I do my own stunts. 
+
+
 
 ## Currently Learning
 - Containerized ambiguity
