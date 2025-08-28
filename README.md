@@ -6,6 +6,7 @@ Specialized in bird law.
 
 I do my own stunts.
 
+<!--
 <a href="https://github.com/oskarnurm/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oskarnurm" />
 </a>
