@@ -4,9 +4,7 @@ Currently adjusting the tent on my ortholinear split keyboard for the 5th time t
 
 Specialized in bird law.
 
-I do my own stunts.
-
-/s
+I do my own stunts. /s
 
 <!--
 <a href="https://github.com/oskarnurm/github-readme-stats">
