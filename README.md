@@ -1,4 +1,11 @@
-## About me
+```lua
+local developer = {
+    full_name = "Karl Oskar Joosep Nurm",
+    display_name = "Oskar Nurm",
+    age = 0x19,
+}
+```
+## About
 
 Currently adjusting the tent on my ortholinear split keyboard for the 5th time today, not out of procrastination, but because the body must flow like water. 
 
