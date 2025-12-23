@@ -3,14 +3,17 @@ local developer = {
     full_name = "Karl Oskar Joosep Nurm",
     display_name = "Oskar Nurm",
     age = 0x19,
+
+    socials = {
+        linkedin = "in/" .. "oskar-nurm",
+    }
 }
+-- print("Find me at linkedin.com/" .. developer.socials.linkedin)
 ```
 ## About
 
-Currently adjusting the tent on my ortholinear split keyboard for the 5th time today, not out of procrastination, but because the body must flow like water. 
-
+Currently adjusting the tent on my ortholinear split keyboard to keep my body guessing.
 Specialized in bird law.
-
 I do my own stunts. /s
 
 <!--
