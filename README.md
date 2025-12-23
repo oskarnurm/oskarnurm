@@ -9,7 +9,7 @@ local developer = {
 
 Currently adjusting the tent on my ortholinear split keyboard to keep my body guessing.\
 Specialized in bird law.\
-I do my own stunts. /s
+I do my own stunts.
 
 <!--
 <a href="https://github.com/oskarnurm/github-readme-stats">
