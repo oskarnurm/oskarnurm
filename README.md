@@ -1,3 +1,4 @@
+<!--
 ```lua
 local developer = {
     full_name = "Karl Oskar Joosep Nurm",
@@ -5,6 +6,7 @@ local developer = {
     age = 0x19,
 }
 ```
+-->
 ### Experience:
 
 Currently adjusting the tent on my ortholinear split keyboard to keep my body guessing.\
