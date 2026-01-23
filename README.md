@@ -13,7 +13,10 @@ Currently adjusting the tent on my ortholinear split keyboard to keep my body gu
 Specialized in bird law.\
 I do my own stunts.
 
-![Top Languages](profile/top-langs.svg)
+<div align="center">
+  <img src="profile/top-langs.svg" height="165" />
+  <img src="profile/stats.svg" height="165" />
+</div>
 
 <!--
 <a href="https://github.com/oskarnurm/github-readme-stats">
